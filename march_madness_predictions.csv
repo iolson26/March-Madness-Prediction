@@ -1,0 +1,68 @@
+Home,Away,P_Home_Lose,P_Home_Win,Home_win_bool
+Howard,Wagner,0.5098157,0.49018428,0
+Virginia,Colorado State,0.4354744,0.5645256,1
+Montana State,Grambling,0.31551528,0.6844847,1
+Boise State,Colorado,0.32494473,0.67505527,1
+Mississippi State,Michigan State,0.48005956,0.51994044,1
+BYU,Duquesne,0.2231195,0.7768805,1
+Creighton,Akron,0.12599099,0.874009,1
+Arizona,Long Beach State,0.030955851,0.96904415,1
+North Carolina,Wagner,0.09810418,0.9018958,1
+Illinois,Morehead State,0.33879858,0.6612014,1
+South Carolina,Oregon,0.2758357,0.7241643,1
+Dayton,Nevada,0.377959,0.622041,1
+Texas,Colorado State,0.47836518,0.5216348,1
+Kentucky,Oakland,0.22982073,0.7701793,1
+Iowa State,South Dakota State,0.14568454,0.85431546,1
+Gonzaga,McNeese,0.43665862,0.5633414,1
+Tennessee,Saint Peter's,0.085624814,0.9143752,1
+Texas Tech,NC State,0.27383834,0.72616166,1
+Washington State,Drake,0.25389105,0.74610895,1
+Kansas,Samford,0.49909174,0.50090826,1
+Florida Atlantic,Northwestern,0.21976858,0.7802314,1
+Baylor,Colgate,0.2669658,0.7330342,1
+San Diego State,UAB,0.27284855,0.72715145,1
+Marquette,Western Ky.,0.2910959,0.7089041,1
+Clemson,New Mexico,0.32896924,0.67103076,1
+UConn,Stetson,0.024452984,0.975547,1
+Auburn,Yale,0.08145434,0.91854566,1
+Florida,Colorado,0.3031646,0.6968354,1
+Nebraska,Texas A&M,0.26257223,0.7374278,1
+Duke,Vermont,0.25564545,0.74435455,1
+Purdue,Grambling,0.021097481,0.9789025,1
+Alabama,Charleston,0.27833396,0.72166604,1
+Houston,Longwood,0.059799373,0.9402006,1
+Wisconsin,James Madison,0.9117018,0.08829822,0
+Utah State,TCU,0.26175052,0.7382495,1
+State Mary's (Cal.),Grand Canyon,0.21070248,0.7892975,1
+Arizona,Dayton,0.24921227,0.75078773,1
+Kansas,Gonzaga,0.71845174,0.28154826,0
+North Carolina,Michigan State,0.26530015,0.73469985,1
+Iowa State,Washington State,0.121481836,0.87851816,1
+NC State,Oakland,0.37692398,0.623076,1
+Tennessee,Texas,0.22870636,0.77129364,1
+Illinois,Duquesne,0.1348297,0.8651703,1
+Creighton,Oregon,0.067593694,0.9324063,1
+Marquette,Colorado,0.14153391,0.8584661,1
+Purdue,Utah State,0.21559566,0.78440434,1
+Duke,James Madison,0.3985415,0.6014585,1
+Baylor,Clemson,0.24690127,0.7530987,1
+Alabama,Grand Canyon,0.49753428,0.5024657,1
+UConn,Northwestern,0.055534244,0.94446576,1
+Houston,Texas A&M,0.031722307,0.9682777,1
+San Diego State,Yale,0.4237287,0.5762713,1
+Arizona,Clemson,0.17615533,0.8238447,1
+UConn,San Diego State,0.061645806,0.9383542,1
+North Carolina,Alabama,0.25604045,0.74395955,1
+Iowa State,Illinois,0.053811193,0.9461888,1
+Marquette,NC State,0.16493452,0.8350655,1
+Purdue,Gonzaga,0.509561,0.490439,0
+Houston,Duke,0.22562504,0.77437496,1
+Tennessee,Creighton,0.3589148,0.6410852,1
+UConn,Illinois,0.0860523,0.9139477,1
+Alabama,Clemson,0.2439884,0.7560116,1
+Purdue,Tennessee,0.25100136,0.74899864,1
+Duke,NC State,0.15163499,0.848365,1
+Purdue,NC State,0.057426512,0.9425735,1
+UConn,Alabama,0.069847226,0.9301528,1
+UConn,Purdue,0.18184906,0.81815094,1
