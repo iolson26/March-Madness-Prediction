@@ -1,0 +1,68 @@
+GameID,Date,Year,Home_team,Away_Team,Home_winner?,Away_Winner?,Home_Seed,Away_Seed
+2252394,03-14-2023,2023,A&M-Corpus Christi,Southeast Mo. St.,True,False,16,16
+2252395,03-14-2023,2023,Mississippi St.,Pittsburgh,False,True,11,11
+2252396,03-15-2023,2023,Texas Southern,FDU,False,True,16,16
+2252397,03-15-2023,2023,Arizona St.,Nevada,True,False,11,11
+2252411,03-16-2023,2023,Maryland,West Virginia,True,False,8,9
+2252407,03-16-2023,2023,Virginia,Furman,False,True,4,13
+2252398,03-16-2023,2023,Missouri,Utah St.,True,False,7,10
+2252404,03-16-2023,2023,Kansas,Howard,True,False,1,16
+2252410,03-16-2023,2023,Alabama,A&M-Corpus Christi,True,False,1,16
+2252406,03-16-2023,2023,San Diego St.,Col. of Charleston,True,False,5,12
+2252399,03-16-2023,2023,Arizona,Princeton,False,True,2,15
+2252405,03-16-2023,2023,Arkansas,Illinois,True,False,8,9
+2252413,03-16-2023,2023,Iowa,Auburn,False,True,8,9
+2252408,03-16-2023,2023,Duke,Oral Roberts,True,False,5,12
+2252403,03-16-2023,2023,Texas,Colgate,True,False,2,15
+2252400,03-16-2023,2023,Northwestern,Boise St.,True,False,7,10
+2252409,03-16-2023,2023,Tennessee,Louisiana,True,False,4,13
+2252412,03-16-2023,2023,Houston,Northern Ky.,True,False,1,16
+2252401,03-16-2023,2023,UCLA,UNC Asheville,True,False,2,15
+2252402,03-16-2023,2023,Texas A&M,Penn St.,False,True,7,10
+2252416,03-17-2023,2023,Michigan St.,Southern California,True,False,7,10
+2252421,03-17-2023,2023,Xavier,Kennesaw St.,True,False,3,14
+2252427,03-17-2023,2023,Baylor,UC Santa Barbara,True,False,3,14
+2252424,03-17-2023,2023,Saint Mary's (CA),VCU,True,False,5,12
+2252417,03-17-2023,2023,Marquette,Vermont,True,False,2,15
+2252420,03-17-2023,2023,Iowa St.,Pittsburgh,False,True,6,11
+2252426,03-17-2023,2023,Creighton,NC State,True,False,6,11
+2252425,03-17-2023,2023,UConn,Iona,True,False,4,13
+2252414,03-17-2023,2023,Purdue,FDU,False,True,1,16
+2252418,03-17-2023,2023,Kentucky,Providence,True,False,6,11
+2252429,03-17-2023,2023,Gonzaga,Grand Canyon,True,False,3,14
+2252422,03-17-2023,2023,Miami (FL),Drake,True,False,5,12
+2252415,03-17-2023,2023,Memphis,Fla. Atlantic,False,True,8,9
+2252419,03-17-2023,2023,Kansas St.,Montana St.,True,False,3,14
+2252428,03-17-2023,2023,TCU,Arizona St.,True,False,6,11
+2252423,03-17-2023,2023,Indiana,Kent St.,True,False,4,13
+2252432,03-18-2023,2023,San Diego St.,Furman,True,False,5,13
+2252433,03-18-2023,2023,Tennessee,Duke,True,False,4,5
+2252431,03-18-2023,2023,Kansas,Arkansas,False,True,1,8
+2252436,03-18-2023,2023,Missouri,Princeton,False,True,7,15
+2252435,03-18-2023,2023,Houston,Auburn,True,False,1,9
+2252430,03-18-2023,2023,Texas,Penn St.,True,False,2,10
+2252437,03-18-2023,2023,UCLA,Northwestern,True,False,2,7
+2252434,03-18-2023,2023,Alabama,Maryland,True,False,1,8
+2252445,03-19-2023,2023,Xavier,Pittsburgh,True,False,3,11
+2252444,03-19-2023,2023,Kansas St.,Kentucky,True,False,3,6
+2252441,03-19-2023,2023,Marquette,Michigan St.,False,True,2,7
+2252443,03-19-2023,2023,UConn,Saint Mary's (CA),True,False,4,5
+2252438,03-19-2023,2023,Baylor,Creighton,False,True,3,6
+2252440,03-19-2023,2023,Fla. Atlantic,FDU,True,False,9,16
+2252442,03-19-2023,2023,Indiana,Miami (FL),False,True,4,5
+2252439,03-19-2023,2023,Gonzaga,TCU,True,False,3,6
+2252449,03-23-2023,2023,Kansas St.,Michigan St.,True,False,3,7
+2252446,03-23-2023,2023,UConn,Arkansas,True,False,4,8
+2252448,03-23-2023,2023,Tennessee,Fla. Atlantic,False,True,4,9
+2252447,03-23-2023,2023,UCLA,Gonzaga,False,True,2,3
+2252452,03-24-2023,2023,Alabama,San Diego St.,False,True,1,5
+2252450,03-24-2023,2023,Houston,Miami (FL),False,True,1,5
+2252453,03-24-2023,2023,Creighton,Princeton,True,False,6,15
+2252451,03-24-2023,2023,Texas,Xavier,True,False,2,3
+2252454,03-25-2023,2023,Kansas St.,Fla. Atlantic,False,True,3,9
+2252455,03-25-2023,2023,Gonzaga,UConn,False,True,3,4
+2252456,03-26-2023,2023,San Diego St.,Creighton,True,False,5,6
+2252457,03-26-2023,2023,Texas,Miami (FL),False,True,2,5
+2252458,04-01-2023,2023,San Diego St.,Fla. Atlantic,True,False,5,9
+2252459,04-01-2023,2023,UConn,Miami (FL),True,False,4,5
+2252460,04-03-2023,2023,UConn,San Diego St.,True,False,4,5

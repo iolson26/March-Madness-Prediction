@@ -1,0 +1,68 @@
+GameID,Date,Year,Home_team,Away_Team,Home_winner?,Away_Winner?,Home_Seed,Away_Seed
+2427528,03-19-2024,2024,Howard,Wagner,False,True,16,16
+2427529,03-19-2024,2024,Virginia,Colorado St.,False,True,10,10
+2427530,03-20-2024,2024,Montana St.,Grambling,False,True,16,16
+2427531,03-20-2024,2024,Boise St.,Colorado,False,True,10,10
+2427537,03-21-2024,2024,Mississippi St.,Michigan St.,False,True,8,9
+2427532,03-21-2024,2024,BYU,Duquesne,False,True,6,11
+2427547,03-21-2024,2024,Creighton,Akron,True,False,3,14
+2427541,03-21-2024,2024,Arizona,Long Beach St.,True,False,2,15
+2427536,03-21-2024,2024,North Carolina,Wagner,True,False,1,16
+2427533,03-21-2024,2024,Illinois,Morehead St.,True,False,3,14
+2427546,03-21-2024,2024,South Carolina,Oregon,False,True,6,11
+2427540,03-21-2024,2024,Dayton,Nevada,True,False,7,10
+2427538,03-21-2024,2024,Texas,Colorado St.,True,False,7,10
+2427545,03-21-2024,2024,Kentucky,Oakland,False,True,3,14
+2427535,03-21-2024,2024,Iowa St.,South Dakota St.,True,False,2,15
+2427542,03-21-2024,2024,Gonzaga,McNeese,True,False,5,12
+2427539,03-21-2024,2024,Tennessee,Saint Peter's,True,False,2,15
+2427544,03-21-2024,2024,Texas Tech,NC State,False,True,6,11
+2427534,03-21-2024,2024,Washington St.,Drake,True,False,7,10
+2427543,03-21-2024,2024,Kansas,Samford,True,False,4,13
+2427553,03-22-2024,2024,Fla. Atlantic,Northwestern,False,True,8,9
+2427557,03-22-2024,2024,Baylor,Colgate,True,False,3,14
+2427560,03-22-2024,2024,San Diego St.,UAB,True,False,5,12
+2427549,03-22-2024,2024,Marquette,Western Ky.,True,False,2,15
+2427556,03-22-2024,2024,Clemson,New Mexico,True,False,6,11
+2427552,03-22-2024,2024,UConn,Stetson,True,False,1,16
+2427561,03-22-2024,2024,Auburn,Yale,False,True,4,13
+2427548,03-22-2024,2024,Florida,Colorado,False,True,7,10
+2427559,03-22-2024,2024,Nebraska,Texas A&M,False,True,8,9
+2427555,03-22-2024,2024,Duke,Vermont,True,False,4,13
+2427550,03-22-2024,2024,Purdue,Grambling,True,False,1,16
+2427563,03-22-2024,2024,Alabama,Col. of Charleston,True,False,4,13
+2427558,03-22-2024,2024,Houston,Longwood,True,False,1,16
+2427554,03-22-2024,2024,Wisconsin,James Madison,False,True,5,12
+2427551,03-22-2024,2024,Utah St.,TCU,True,False,8,9
+4e8abf66-2976-4416-841f-22a3487297a7,03-22-2024,2024,Saint Mary's (CA),Grand Canyon,False,True,5,12
+2427570,03-23-2024,2024,Arizona,Dayton,True,False,2,7
+2427571,03-23-2024,2024,Kansas,Gonzaga,False,True,4,5
+2427566,03-23-2024,2024,North Carolina,Michigan St.,True,False,1,9
+2427565,03-23-2024,2024,Iowa St.,Washington St.,True,False,2,7
+2427568,03-23-2024,2024,NC State,Oakland,True,False,11,14
+2427567,03-23-2024,2024,Tennessee,Texas,True,False,2,7
+2427564,03-23-2024,2024,Illinois,Duquesne,True,False,3,11
+06c5b447-739d-472a-82f2-1805da284778,03-23-2024,2024,Creighton,Oregon,True,False,3,11
+2427572,03-24-2024,2024,Marquette,Colorado,True,False,2,10
+2427573,03-24-2024,2024,Purdue,Utah St.,True,False,1,8
+2427575,03-24-2024,2024,Duke,James Madison,True,False,4,12
+2427578,03-24-2024,2024,Baylor,Clemson,False,True,3,6
+2427577,03-24-2024,2024,Alabama,Grand Canyon,True,False,4,12
+2427574,03-24-2024,2024,UConn,Northwestern,True,False,1,9
+2427579,03-24-2024,2024,Houston,Texas A&M,True,False,1,9
+2427576,03-24-2024,2024,San Diego St.,Yale,True,False,5,13
+2427581,03-28-2024,2024,Arizona,Clemson,False,True,2,6
+2427582,03-28-2024,2024,UConn,San Diego St.,True,False,1,5
+2427580,03-28-2024,2024,North Carolina,Alabama,False,True,1,4
+0d2ddc68-9f3a-4f11-acb1-b51ec7ce8a61,03-28-2024,2024,Iowa St.,Illinois,False,True,2,3
+2427585,03-29-2024,2024,Marquette,NC State,False,True,2,11
+2427586,03-29-2024,2024,Purdue,Gonzaga,True,False,1,5
+2427584,03-29-2024,2024,Houston,Duke,False,True,1,4
+2427587,03-29-2024,2024,Tennessee,Creighton,True,False,2,3
+2427589,03-30-2024,2024,UConn,Illinois,True,False,1,3
+2427588,03-30-2024,2024,Alabama,Clemson,True,False,4,6
+2427590,03-31-2024,2024,Purdue,Tennessee,True,False,1,2
+2427591,03-31-2024,2024,Duke,NC State,False,True,4,11
+2427593,04-06-2024,2024,Purdue,NC State,True,False,1,11
+2427592,04-06-2024,2024,UConn,Alabama,True,False,1,4
+2427594,04-08-2024,2024,UConn,Purdue,True,False,1,1

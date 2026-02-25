@@ -1,0 +1,68 @@
+GameID,Date,Year,Home_team,Away_Team,Home_winner?,Away_Winner?,Home_Seed,Away_Seed
+2640418,03-18-2025,2025,Alabama St.,Saint Francis,True,False,16,16
+2640419,03-18-2025,2025,San Diego St.,North Carolina,False,True,11,11
+2640420,03-19-2025,2025,American,Mount St. Mary's,False,True,16,16
+2640421,03-19-2025,2025,Texas,Xavier,False,True,11,11
+2640423,03-20-2025,2025,Louisville,Creighton,False,True,8,9
+2640437,03-20-2025,2025,Purdue,High Point,True,False,4,13
+2640433,03-20-2025,2025,Wisconsin,Montana,True,False,3,14
+2640428,03-20-2025,2025,Houston,SIUE,True,False,1,16
+2640422,03-20-2025,2025,Auburn,Alabama St.,True,False,1,16
+2640436,03-20-2025,2025,Clemson,McNeese,False,True,5,12
+2640432,03-20-2025,2025,BYU,VCU,True,False,6,11
+2640429,03-20-2025,2025,Gonzaga,Georgia,True,False,8,9
+2640425,03-20-2025,2025,Tennessee,Wofford,True,False,2,15
+2640434,03-20-2025,2025,Kansas,Arkansas,False,True,7,10
+2640431,03-20-2025,2025,Texas A&M,Yale,True,False,4,13
+2640426,03-20-2025,2025,Missouri,Drake,False,True,6,11
+2640424,03-20-2025,2025,UCLA,Utah St.,True,False,7,10
+2640435,03-20-2025,2025,St. John's (NY),Omaha,True,False,2,15
+2640430,03-20-2025,2025,Michigan,UC San Diego,True,False,5,12
+2640427,03-20-2025,2025,Texas Tech,UNCW,True,False,3,14
+eeae8b31-8665-4b57-9c8d-028b09374e7e,03-21-2025,2025,Mississippi St.,Baylor,False,True,8,9
+2640441,03-21-2025,2025,Alabama,Robert Morris,True,False,2,15
+2640447,03-21-2025,2025,Iowa St.,Lipscomb,True,False,3,14
+2640450,03-21-2025,2025,Memphis,Colorado St.,False,True,5,12
+2640444,03-21-2025,2025,Duke,Mount St. Mary's,True,False,1,16
+2640440,03-21-2025,2025,Saint Mary's (CA),Vanderbilt,True,False,7,10
+2640446,03-21-2025,2025,Ole Miss,North Carolina,True,False,6,11
+2640451,03-21-2025,2025,Maryland,Grand Canyon,True,False,4,13
+2640442,03-21-2025,2025,Florida,Norfolk St.,True,False,1,16
+2640449,03-21-2025,2025,Kentucky,Troy,True,False,3,14
+2640438,03-21-2025,2025,Marquette,New Mexico,False,True,7,10
+2640453,03-21-2025,2025,Arizona,Akron,True,False,4,13
+2640443,03-21-2025,2025,UConn,Oklahoma,True,False,8,9
+2640448,03-21-2025,2025,Illinois,Xavier,True,False,6,11
+2640439,03-21-2025,2025,Michigan St.,Bryant,True,False,2,15
+2640452,03-21-2025,2025,Oregon,Liberty,True,False,5,12
+2640459,03-22-2025,2025,Purdue,McNeese,True,False,4,12
+2640458,03-22-2025,2025,St. John's (NY),Arkansas,False,True,2,10
+2640456,03-22-2025,2025,Texas A&M,Michigan,False,True,4,5
+2640454,03-22-2025,2025,Texas Tech,Drake,True,False,3,11
+2640460,03-22-2025,2025,Auburn,Creighton,True,False,1,9
+2640457,03-22-2025,2025,Wisconsin,BYU,False,True,3,6
+2640455,03-22-2025,2025,Houston,Gonzaga,True,False,1,8
+2640461,03-22-2025,2025,Tennessee,UCLA,True,False,2,7
+2640468,03-23-2025,2025,Florida,UConn,True,False,1,8
+2640469,03-23-2025,2025,Duke,Baylor,True,False,1,9
+2640463,03-23-2025,2025,Kentucky,Illinois,True,False,3,6
+2640467,03-23-2025,2025,Alabama,Saint Mary's (CA),True,False,2,7
+2640464,03-23-2025,2025,Maryland,Colorado St.,True,False,4,12
+2640462,03-23-2025,2025,Iowa St.,Ole Miss,False,True,3,6
+2640466,03-23-2025,2025,Michigan St.,New Mexico,True,False,2,10
+2640465,03-23-2025,2025,Arizona,Oregon,True,False,4,5
+2640473,03-27-2025,2025,Alabama,BYU,True,False,2,6
+2640470,03-27-2025,2025,Florida,Maryland,True,False,1,4
+03d89af8-b1d2-4902-af28-78f4755cf474,03-27-2025,2025,Duke,Arizona,True,False,1,4
+2640471,03-27-2025,2025,Texas Tech,Arkansas,True,False,3,10
+2640477,03-28-2025,2025,Michigan St.,Ole Miss,True,False,2,6
+2640475,03-28-2025,2025,Tennessee,Kentucky,True,False,2,3
+2640476,03-28-2025,2025,Auburn,Michigan,True,False,1,5
+2640474,03-28-2025,2025,Houston,Purdue,True,False,1,4
+2640478,03-29-2025,2025,Florida,Texas Tech,True,False,1,3
+2640479,03-29-2025,2025,Duke,Alabama,True,False,1,2
+2640480,03-30-2025,2025,Houston,Tennessee,True,False,1,2
+2640481,03-30-2025,2025,Auburn,Michigan St.,True,False,1,2
+2640599,04-05-2025,2025,Auburn,Florida,False,True,1,1
+2640600,04-05-2025,2025,Duke,Houston,False,True,1,1
+2640598,04-07-2025,2025,Houston,Florida,False,True,1,1
