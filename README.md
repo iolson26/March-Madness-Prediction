@@ -11,3 +11,5 @@ The final random forest code is in the final_model jupyter notebook. Im afraid t
 
 The final xgboost model is the xgboost_model jupyter notebook. Again it isn't marked up super well. 
 
+
+#Note that there also is a lot of old test stuff everywhere that I never bothered to remove or delete.
